@@ -1,4 +1,4 @@
-# reserach-paper-scrapers
+# Research Question Study
 
 These two Python scripts were used to download the reserach papers used in the Reserach Questions Study. Anyone is free to view, download, use, modify or publish these scripts as they wish.
 
