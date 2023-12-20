@@ -1,4 +1,4 @@
-# Research Question Study
+# Research in mathematics education: The questions teachers ask, and the questions researchers answer
 
 These Python scripts were used to download the research papers used in the Research Questions Study. Anyone is free to view, download, use, modify or publish these scripts as they wish.
 
